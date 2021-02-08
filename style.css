@@ -4,6 +4,7 @@
 	box-sizing: border-box;
 }
 body {
+	color: aliceblue;
 	background: linear-gradient(to right, #cad34a, #9363d6);
 	font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 	display: flex;
@@ -13,9 +14,6 @@ body {
 	height: 100vh;
 	overflow: hidden;
 	margin: 0;
-}
-span {
-	color: aliceblue;
 }
 .counter-container {
 	display: flex;
